@@ -1,0 +1,4 @@
+node_modules
+.npm-secrets
+index.test.js
+test-folder

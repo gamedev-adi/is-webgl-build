@@ -1,0 +1,33 @@
+{
+  "name": "@adityamore.gamedev/is-webgl-build",
+  "version": "1.0.1",
+  "description": "Validate WebGL build before upload(currently unity specific)",
+  "keywords": [
+    "unity",
+    "webgl",
+    "validation",
+    "build",
+    "game"
+  ],
+  "homepage": "https://github.com/gamedev-adi/is-webgl-build#readme",
+  "bugs": {
+    "url": "https://github.com/gamedev-adi/is-webgl-build/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamedev-adi/is-webgl-build.git"
+  },
+  "license": "ISC",
+  "author": "gamedev-adi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "jest": "^30.2.0",
+    "semantic-release": "^25.0.1"
+  }
+}
