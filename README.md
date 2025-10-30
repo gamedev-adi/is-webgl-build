@@ -13,11 +13,11 @@ Validates if given folder is a valid WebGL build folder
 - Detect missing or malformed files
 
 ## Installation
-`npm install is-webgl-build`
+`npm install @adityamore.gamedev/is-webgl-build`
 
 ## Usage
 ```
-const { validateBuild } = require("is-webgl-build");
+const { validateBuild } = require("@adityamore.gamedev/is-webgl-build");
 
 const result = validateBuild("/path/to/build/folder");
 
